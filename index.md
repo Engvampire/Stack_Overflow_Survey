@@ -1,3 +1,4 @@
+![Result0](./docs/assets/0.png)
 ## Want Some Insights About Stack Overflow? You are in the right place 😉
 
 
