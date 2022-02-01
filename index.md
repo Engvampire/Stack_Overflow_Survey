@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Want Some Insights About Stack Overflow? You are in the right place 😉
 
-You can use the [editor on GitHub](https://github.com/Engvampire/Stack_Overflow_Survey/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+We got our hands on a survey data set about Stack Overflow and we chose to talk about the following important questions:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Is there a relation between Gender & Salary?
+2. Is there a relation between period of WFH and Job Satisfaction Rating?
+3. Is there a relation between Salary and Job Satisfaction Rating?
 
-```markdown
-Syntax highlighted code block
+After some data analysis, you will be impressed with the results 😊
 
-# Header 1
-## Header 2
-### Header 3
+## Is there a relation between Gender & Salary?
+Fortunately, there is not correlation between Gender & Salary.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Is there a relation between Place of Work (Home/Remote) and Job Satisfaction Rating?
+This was a tricky result as the average salary is not directly proportional with the WFH period but it is noticeable that WFH completely is the lowest Salary and working from office completely is the highest.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+## Is there a relation between Salary and Job Satisfaction Rating?
+As expected, JobSatisfaction has a positive correlation with Salary.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Engvampire/Stack_Overflow_Survey/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Interesting huh? Stay tune for more facts out of this survey 😉
