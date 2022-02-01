@@ -21,3 +21,8 @@ Stack Overflow Data - 2017 Survey.zip   --> the dataset which was used to drive 
   1. There is no correlation between Gender & Salary.
   2. WFH Period has no direct correlation with Salary but it is noticable that WFH completly is the lowest Salary and working from office completly is the highest.
   3. JobSatisfaction has a positive correlation with Salary.
+
+## Acknowlegment
+
+- Dataset can be found on Kaggle.
+- stackoverflow.com was a great resource as usual.
