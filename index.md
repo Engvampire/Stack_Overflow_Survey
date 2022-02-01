@@ -1,6 +1,6 @@
-![Result0](./docs/assets/0.png)
-## Want Some Insights About Stack Overflow? You are in the right place 😉
 
+## Want Some Insights About Stack Overflow? You are in the right place 😉
+![Result0](./docs/assets/0.png)
 
 
 We got our hands on a survey data set about Stack Overflow and we chose to talk about the following important questions:
