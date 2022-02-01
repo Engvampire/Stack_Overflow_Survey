@@ -1,4 +1,4 @@
-# Want Some Insights About Stack Overflow? You are in the right place 😉
+## Want Some Insights About Stack Overflow? You are in the right place 😉
 
 
 
@@ -10,17 +10,17 @@ We got our hands on a survey data set about Stack Overflow and we chose to talk 
 
 After some data analysis, you will be impressed with the results 😊
 
-## Is there a relation between Gender & Salary?
+### Is there a relation between Gender & Salary?
 Fortunately, there is not correlation between Gender & Salary.
 
 
 
-## Is there a relation between Place of Work (Home/Remote) and Job Satisfaction Rating?
+### Is there a relation between Place of Work (Home/Remote) and Job Satisfaction Rating?
 This was a tricky result as the average salary is not directly proportional with the WFH period but it is noticeable that WFH completely is the lowest Salary and working from office completely is the highest.
 
 
 
-## Is there a relation between Salary and Job Satisfaction Rating?
+### Is there a relation between Salary and Job Satisfaction Rating?
 As expected, JobSatisfaction has a positive correlation with Salary.
 
 
